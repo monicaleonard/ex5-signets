@@ -2,3 +2,5 @@
 > N'oubliez pas de commencer par mettre à jour l'objet de configuration Firebase :wink:
 ---
 Intégration **React** / **Firestore** / **Material-UI** dans l'exercice de classe *Signets*.# ex5-signets
+
+L'exercice a été fait avec Nick Michelle Joseph et moi (Monica Léonard)
